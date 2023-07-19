@@ -1,0 +1,1 @@
+The total amount of payments is R$ {total} and the total bonus is R$ {bonus}

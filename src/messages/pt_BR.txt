@@ -1,0 +1,1 @@
+O total de pagamentos é R$ {total} e o total de bônus é R$ {bonus}
