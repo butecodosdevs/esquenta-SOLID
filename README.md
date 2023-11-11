@@ -1,4 +1,6 @@
-# S.O.L.I.D
+[Aula no youtube](https://youtu.be/9y46s0zI6DA?si=Uki0x3facpDVM1Jy)
+
+S.O.L.I.D
 
 1: Single Responsibility Principle
     Separar coisas que mudam por motivos diferentes;
@@ -17,3 +19,4 @@
 5: Dependency Inversion Principle
     Módulos de alto nível não deve depender de módulos de baixo nível.
     Ambos devem depender de abstrações.
+    
